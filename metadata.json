@@ -1,0 +1,5 @@
+{
+  "name": "FocusLock - Screen Time Control",
+  "description": "A robust focus and screen time management application that allows users to lock distracting apps, set focus schedules, and earn rewards for productivity streaks.",
+  "requestFramePermissions": []
+}
